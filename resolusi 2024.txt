@@ -1,4 +1,4 @@
-untuk 2024 
-- Konsisten tahajud tiap malam
-- sedakah 100k tiap bulan
-- konsisten sholat dhuha
+lihat ini 5 tahun kemudian
+- paham node js
+- sudah bikin 1 aplikasi yang disertai api dan bisa dugunakan oleh semua orang
+- bikin website untuk mengelola to do list
