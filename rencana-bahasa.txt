@@ -1,12 +1,14 @@
 bahasa yang pengen dikuasai
 - javascript
-* react
-* angular
+  * react
+  * angular
 - php
 - python
-* laravel
+  * laravel
 - ruby
 - c++ 
 - swift
+- c++
+- c#
 
   
