@@ -1,5 +1,7 @@
 bahasa yang pengen dikuasai
 - javascript
+* react
+* angular
 - php
 - python
 - ruby
