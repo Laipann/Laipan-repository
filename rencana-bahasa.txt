@@ -4,6 +4,7 @@ bahasa yang pengen dikuasai
 * angular
 - php
 - python
+* laravel
 - ruby
 - c++ 
 - swift
