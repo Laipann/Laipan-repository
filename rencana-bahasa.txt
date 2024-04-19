@@ -3,3 +3,5 @@ bahasa yang pengen dikuasai
 - php
 - python
 - ruby
+- c++ 
+- swift
