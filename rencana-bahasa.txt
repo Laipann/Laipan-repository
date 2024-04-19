@@ -8,3 +8,5 @@ bahasa yang pengen dikuasai
 - ruby
 - c++ 
 - swift
+
+  
