@@ -1,4 +1,4 @@
 lihat ini 5 tahun kemudian
 - paham node js
 - sudah bikin 1 aplikasi yang disertai api dan bisa dugunakan oleh semua orang
-- bikin website untuk mengelola to do list
+- bikin website dari restaurany yang dikunjungi yang telah menggunakan framework dan library modern 
